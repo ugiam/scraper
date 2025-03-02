@@ -1,0 +1,4 @@
+Twisted==22.10.0
+beautifulsoup4
+scrapyscript==1.1.5
+Scrapy==2.6.2
