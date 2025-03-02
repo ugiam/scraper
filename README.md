@@ -5,7 +5,11 @@ How to use:
 from news_scraper.main_news import scrap, serialize
 scrap("./news_scraper/")
 data = serialize("./news_scraper/")
+
+## you can see the result in ./news_scraper/temp/{spider}.json
+## if json is empty probably the website html structure has been changed so the spider engine needs adjustment 
 ```
+
 
 ### Twitter
 
